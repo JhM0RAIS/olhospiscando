@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="/OGQ:]OIiNr08m#`js82" x="355" y="-119"><statement name="HANDLER"><block type="device_show_leds" id="PD4OCy4uhXH^8i@^J)QW"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="[394S@ZTk8OoZi2WW3{9" x="355" y="-119"><statement name="HANDLER"><block type="device_show_leds" id="#6!A_w/#h%S6_fMnA~Wg"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . # # # . 
         # . # . # 
         . # # # .
-        `</field><next><block type="device_pause" id="2G8$P$9qhXU=J.)y~[b^"><value name="pause"><shadow type="timePicker" id="rQEUCgml6y~l;K3,E?B9"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="`FO4:7C*~$8vVif;XWcT"><field name="LEDS">`
+        `</field><next><block type="device_pause" id="P__cl]D%y7KzR(Mk8COZ"><value name="pause"><shadow type="timePicker" id="lAR/hgtg=FTYp.J(*DsQ"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="k~%W.#_FRse%1w5/Q`5-"><field name="LEDS">`
         . . . . . 
         . . . . . 
-        . # # # . 
-        # . # . # 
+        . . . . . 
+        # . . . # 
         . # # # .
-        `</field><next><block type="device_pause" id="NWIS+6#]T-.:[$$MJ=Q6"><value name="pause"><shadow type="timePicker" id="NTa.ZR?n1*tv!ZT3I250"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="siJ3N6DT=N`@O]^/zY/$" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="*](Z!qzC.m40@TGgZ1-@"><value name="text"><shadow type="text" id="b-m8#BeUVPA)~9*|iTa["><field name="TEXT">Piscar</field></shadow></value></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="C(L.JO/VMqKs^vSP,_B0"><value name="pause"><shadow type="timePicker" id="XGK0}81[=T(upwVS`4C,"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="jL#cNaq2v~pz@{1_`m:H" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="3o:_xLyLfho1^ej{IQ|:"><value name="text"><shadow type="text" id="!xC]]57enr6mw0-ez3-)"><field name="TEXT">Piscar</field></shadow></value></block></statement></block></xml>
